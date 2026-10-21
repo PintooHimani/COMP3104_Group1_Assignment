@@ -1,0 +1,1 @@
+COMP 2156 DevOps introduces the culture, practices, and tools that connect software development and IT operations.
