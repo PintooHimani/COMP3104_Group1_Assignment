@@ -7,3 +7,6 @@ DevOps practices help people share responsibility across development and operati
 
 2. Repeatability and review
 Repeatable checks reduce variation between contributors and provide a common starting point for review. A reviewer can focus on the meaning and consequences of a change while automation handles routine structure checks. Both the checks and the documentation should improve when the team discovers a gap in its process.
+
+3. Evidence and improvement
+A successful process leaves evidence that helps a team understand a result: the relevant commit, review discussion, check output, and release information. After a problem, the team can use that evidence to improve its workflow. This assignment applies the same principle through visible member contributions, pull requests, and screenshots of actual CI runs.
