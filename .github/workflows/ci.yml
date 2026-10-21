@@ -1,0 +1,26 @@
+name: DevOps CI Pipeline
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  devops-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Display CI message
+        run: echo "GitHub Actions CI pipeline started"
+
+      - name: Check assignment files
+        run: |
+          test -f 101577789_gb.txt
+          test -f 101577789_devops.txt
+          test -f 101577789_sdlc.txt
+          echo "All required files exist"
+
+      - name: Finish workflow
+        run: echo "DevOps CI pipeline completed successfully"
