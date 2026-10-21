@@ -1,2 +1,3 @@
 COMP 2156 DevOps introduces the culture, practices, and tools that connect software development and IT operations.
 Topics include version control with Git and GitHub, branching strategies, pull requests, and resolving merge conflicts.
+The course also covers CI/CD pipelines using GitHub Actions, automated builds and testing, and an introduction to containers and cloud deployment.
