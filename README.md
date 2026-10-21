@@ -9,6 +9,8 @@ branching strategies, pull requests, and CI/CD automation.
 ## Group Members
 - Pintoo Himani (101577789)
   GitHub: https://github.com/PintooHimani
+- Alikhan Zhilkibayev (101574906)
+  GitHub: https://github.com/dominosotne
 
 Other group members will be added when their details are confirmed.
 
@@ -16,6 +18,9 @@ Other group members will be added when their details are confirmed.
 - 101577789_gb.txt - George Brown College information
 - 101577789_devops.txt - DevOps course information
 - 101577789_sdlc.txt - Importance of DevOps in SDLC
+- 101574906_gb.txt - George Brown College information
+- 101574906_devops.txt - DevOps course information
+- 101574906_sdlc.txt - Importance of DevOps in SDLC
 
 ## Setup Instructions
 1. Clone the repository using Git.
@@ -29,6 +34,7 @@ Other group members will be added when their details are confirmed.
 Each developer uses a separate branch.
 
 Pintoo Himani: 101577789-Pintoo
+Alikhan Zhilkibayev: 101574906-Alikhan
 
 Changes are reviewed through pull requests before merging into main.
 
