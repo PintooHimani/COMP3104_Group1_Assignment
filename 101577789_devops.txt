@@ -1,0 +1,55 @@
+COMP2156 - DevOps Course
+
+DevOps combines software development and IT operations.
+
+The course teaches students about Git, GitHub, version control, collaboration, and CI/CD.
+
+Git helps developers track changes in their projects.
+
+GitHub allows team members to collaborate using branches and pull requests.
+
+Continuous Integration (CI) helps developers test changes automatically.
+
+Continuous Deployment (CD) helps deliver software updates efficiently.
+
+GitHub Actions can automate testing and other development tasks.
+
+DevOps improves teamwork, software quality, and delivery speed.
+
+Git Branching and Collaboration
+
+Git branches allow developers to work independently without changing the main branch.
+
+Each team member can create a personal branch to develop and test changes.
+
+Pull requests allow team members to review changes before merging them into the main branch.
+
+Merge conflicts happen when Git cannot automatically combine changes.
+
+Developers resolve conflicts by reviewing the affected files and choosing the correct content.
+
+Continuous Integration and Continuous Delivery
+
+Continuous Integration (CI) automatically checks code changes when developers push updates to GitHub.
+
+GitHub Actions allows developers to create automated workflows using YAML files.
+
+Continuous Delivery (CD) helps prepare tested software for release.
+
+A CI/CD pipeline can include code checkout, building, testing, and deployment.
+
+Automated workflows reduce manual work and help teams identify errors earlier.
+
+Git Version Control
+
+Git is a distributed version control system.
+
+The git add command stages changes.
+
+The git commit command saves changes locally.
+
+The git push command uploads commits to GitHub.
+
+The git pull command retrieves updates from the remote repository.
+
+Version control helps developers track changes and work together.
