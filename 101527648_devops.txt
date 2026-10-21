@@ -1,0 +1,6 @@
+COMP 2156 DevOps course topic
+Student: Rasul Dadashbayli
+Student ID: 101527648
+
+1. Course context
+The assignment requests a COMP 2156 DevOps information file and uses COMP3104 in its repository name. This document keeps those labels distinct. Version control, collaboration, and continuous integration help a team coordinate changes and inspect project health.
