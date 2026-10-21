@@ -7,3 +7,6 @@ The assignment requests a COMP 2156 DevOps information file and uses COMP3104 in
 
 2. From local change to review
 A member prepares files locally, inspects the diff, creates a meaningful commit, and pushes their own branch. A pull request makes the proposed changes available to teammates for review. Reviewers check the written explanation and the automated result. The member can respond to requested corrections with another commit.
+
+3. Workflow configuration
+A GitHub Actions workflow is stored as YAML under .github/workflows. Its triggers determine when jobs run, and its steps define what gets checked. This repository's workflow checks that Pintoo's three documents exist. Extending it to cover every member's files would make CI checks more complete as the group adds contributions.
