@@ -7,3 +7,9 @@ George Brown College is a public postsecondary institution in Toronto, Ontario. 
 
 2. Organization and accountability
 A group project works better when each member understands their responsibilities. Student IDs in filenames prevent ambiguity, while branch names connect contributions with their owners. Members should agree on a review order and communicate when work is ready. This makes missing material easier to spot before submission.
+
+3. Preparing understandable evidence
+Technical work should include evidence a reader can interpret. A screenshot needs a caption identifying whose work it shows and what it demonstrates. A final report should use the actual repository link and real workflow results. These habits make a student's process easier to assess and support clear professional communication.
+
+Reference
+https://www.georgebrown.ca/why-george-brown/experiential-learning
