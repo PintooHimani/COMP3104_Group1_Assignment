@@ -15,3 +15,15 @@ Continuous Deployment (CD) helps deliver software updates efficiently.
 GitHub Actions can automate testing and other development tasks.
 
 DevOps improves teamwork, software quality, and delivery speed.
+
+Git Branching and Collaboration
+
+Git branches allow developers to work independently without changing the main branch.
+
+Each team member can create a personal branch to develop and test changes.
+
+Pull requests allow team members to review changes before merging them into the main branch.
+
+Merge conflicts happen when Git cannot automatically combine changes.
+
+Developers resolve conflicts by reviewing the affected files and choosing the correct content.
