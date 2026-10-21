@@ -11,3 +11,9 @@ CI/CD is an important part of DevOps because it helps developers test and update
 Continuous Integration (CI) allows developers to combine their code changes and check for problems automatically.
 
 Continuous Deployment (CD) helps teams release software updates with less manual work. Tools like GitHub Actions can automate these processes and make development more efficient.
+
+Git and GitHub are useful tools in DevOps because they help developers manage their code and work together on projects.
+
+Git keeps track of changes made to files, so developers can review previous versions when needed.
+
+GitHub allows team members to share their work, create branches, and use pull requests to combine changes into the main project.
