@@ -1,0 +1,7 @@
+Software Development Life Cycle (SDLC)
+
+The Software Development Life Cycle (SDLC) is a process that developers follow when creating software.
+
+It includes different stages such as planning, designing, coding, testing, deploying, and maintaining an application.
+
+These stages help developers stay organized and make sure the software meets the needs of its users.
