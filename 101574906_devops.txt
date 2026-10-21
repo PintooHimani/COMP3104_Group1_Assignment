@@ -1,1 +1,2 @@
 COMP 2156 DevOps introduces the culture, practices, and tools that connect software development and IT operations.
+Topics include version control with Git and GitHub, branching strategies, pull requests, and resolving merge conflicts.
