@@ -1,0 +1,6 @@
+Importance of DevOps in the software development lifecycle
+Student: Rasul Dadashbayli
+Student ID: 101527648
+
+1. Collaboration across the lifecycle
+DevOps practices help people share responsibility across development and operations. During planning, a team should consider how a change will be tested, delivered, and supported. Thinking about those questions early can prevent a feature that works locally but is difficult to operate or diagnose.
