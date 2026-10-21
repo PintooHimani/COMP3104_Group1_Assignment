@@ -39,3 +39,17 @@ Continuous Delivery (CD) helps prepare tested software for release.
 A CI/CD pipeline can include code checkout, building, testing, and deployment.
 
 Automated workflows reduce manual work and help teams identify errors earlier.
+
+Git Version Control
+
+Git is a distributed version control system.
+
+The git add command stages changes.
+
+The git commit command saves changes locally.
+
+The git push command uploads commits to GitHub.
+
+The git pull command retrieves updates from the remote repository.
+
+Version control helps developers track changes and work together.
