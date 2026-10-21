@@ -4,3 +4,6 @@ Student ID: 101527648
 
 1. Institution and learning approach
 George Brown College is a public postsecondary institution in Toronto, Ontario. Its experiential learning resources emphasize practical experience. A collaborative technical task helps students connect course concepts with a result they can inspect and explain.
+
+2. Organization and accountability
+A group project works better when each member understands their responsibilities. Student IDs in filenames prevent ambiguity, while branch names connect contributions with their owners. Members should agree on a review order and communicate when work is ready. This makes missing material easier to spot before submission.
