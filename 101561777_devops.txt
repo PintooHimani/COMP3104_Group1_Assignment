@@ -1,0 +1,7 @@
+Introduction to DevOps
+
+DevOps is a way of working that brings software developers and IT operations teams together.
+
+The main goal of DevOps is to improve teamwork, make software development faster, and reduce problems during the development process.
+
+In our DevOps course, we learn how to use tools like Git and GitHub to manage projects, track changes, and work with other developers.
