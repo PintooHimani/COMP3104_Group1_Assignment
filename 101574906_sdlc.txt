@@ -1,3 +1,4 @@
 DevOps improves the software development lifecycle by breaking down silos between development and operations teams.
 Continuous integration catches bugs early by automatically building and testing code on every commit.
 Continuous delivery makes releases faster and safer, with smaller and more frequent deployments that are easy to roll back.
+Monitoring and feedback loops help teams detect problems in production quickly and keep improving the product.
