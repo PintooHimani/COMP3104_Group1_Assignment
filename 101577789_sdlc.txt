@@ -32,3 +32,17 @@ Monitoring helps improve software performance.
 
 Reduced Risks:
 Small updates are easier to test and maintain.
+
+Practical Example of DevOps in SDLC
+
+A development team creates a web application.
+
+Developers use Git branches to work on different features.
+
+When a developer pushes code, GitHub Actions can run automated checks.
+
+After the checks pass, team members review the changes through a pull request.
+
+The approved changes are merged into the main branch.
+
+This process improves collaboration and reduces integration problems.
