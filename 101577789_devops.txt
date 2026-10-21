@@ -1,0 +1,17 @@
+COMP2156 - DevOps Course
+
+DevOps combines software development and IT operations.
+
+The course teaches students about Git, GitHub, version control, collaboration, and CI/CD.
+
+Git helps developers track changes in their projects.
+
+GitHub allows team members to collaborate using branches and pull requests.
+
+Continuous Integration (CI) helps developers test changes automatically.
+
+Continuous Deployment (CD) helps deliver software updates efficiently.
+
+GitHub Actions can automate testing and other development tasks.
+
+DevOps improves teamwork, software quality, and delivery speed.
