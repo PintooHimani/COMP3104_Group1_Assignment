@@ -1,10 +1,10 @@
 # COMP3104_Group38_Assignment
+# COMP3104_Group38_Assignment
 
 ## Project Description
 This repository contains the COMP3104 DevOps Group Assignment.
 
-The project demonstrates Git version control, GitHub collaboration,
-branching strategies, pull requests, and CI/CD automation.
+The project demonstrates Git version control, GitHub collaboration, branching strategies, pull requests, and CI/CD automation.
 
 ## Group Members
 - Pintoo Himani (101577789)
@@ -18,6 +18,12 @@ Other group members will be added when their details are confirmed.
 - 101577789_gb.txt - George Brown College information
 - 101577789_devops.txt - DevOps course information
 - 101577789_sdlc.txt - Importance of DevOps in SDLC
+- 101527648_gb.txt - George Brown College information
+- 101527648_devops.txt - DevOps course information
+- 101527648_sdlc.txt - Importance of DevOps in SDLC
+- 101574906_gb.txt - George Brown College information
+- 101574906_devops.txt - DevOps course information
+- 101574906_sdlc.txt - Importance of DevOps in SDLC
 
 ## Setup Instructions
 1. Clone the repository using Git.
@@ -28,9 +34,10 @@ Other group members will be added when their details are confirmed.
 6. Create a pull request to merge changes into main.
 
 ## Branching Strategy
-Each developer uses a separate branch.
-
-Pintoo Himani: 101577789-Pintoo
+Each developer uses a separate branch:
+- Pintoo Himani: 101577789-Pintoo
+- Rasul Dadashbayli: 101527648-Rasul
+- Alikhan Zhilkibayev: 101574906-Alikhan
 
 Changes are reviewed through pull requests before merging into main.
 
