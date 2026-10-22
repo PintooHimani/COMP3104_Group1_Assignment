@@ -6,6 +6,12 @@ This repository contains the COMP3104 DevOps Group Assignment.
 The project demonstrates Git version control, GitHub collaboration, branching strategies, pull requests, and CI/CD automation.
 
 ## Group Members
+- Pintoo Himani (101577789)
+  Kerem Bas (101561777)
+  Github: https://github.com/kerem37-k 
+  GitHub: https://github.com/PintooHimani
+
+Other group members will be added when their details are confirmed.
 - Pintoo Himani (101577789) GitHub: https://github.com/PintooHimani
 - Rasul Dadashbayli (101527648) GitHub: https://github.com/rasulbayli
 - Alikhan Zhilkibayev (101574906) GitHub: https://github.com/dominosotne
@@ -41,5 +47,21 @@ Changes are reviewed through pull requests before merging into main.
 GitHub Actions is used for continuous integration.
 
 The workflow is stored in .github/workflows/ci.yml.
+
+The pipeline runs automatically when code is pushed
+or a pull request is opened.
+
+101561777_gb.txt - George Brown College information
+- 101561777_devops.txt - DevOps course information
+- 101561777_sdlc.txt - Importance of DevOps in SDLC
+
+## Branching Strategy
+Each developer uses a separate branch.
+
+- Pintoo Himani: 101577789-Pintoo
+- Kerem Bas: 101561777-Kerem
+
+Changes are reviewed through pull requests before merging into main. 
+
 
 The pipeline runs automatically when code is pushed or a pull request is opened.

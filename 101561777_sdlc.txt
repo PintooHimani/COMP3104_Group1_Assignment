@@ -1,0 +1,19 @@
+Software Development Life Cycle (SDLC)
+
+The Software Development Life Cycle (SDLC) is a process that developers follow when creating software.
+
+It includes different stages such as planning, designing, coding, testing, deploying, and maintaining an application.
+
+These stages help developers stay organized and make sure the software meets the needs of its users.
+
+DevOps plays an important role in the software development process because it helps developers and operations teams work better together.
+
+Instead of waiting until the end of a project to test and release software, teams can check their work regularly and fix problems earlier.
+
+This makes the development process smoother and helps teams deliver better software to users.
+
+Automation is another important benefit of using DevOps during software development.
+
+Tools like GitHub Actions can automatically run checks when developers make changes to their code.
+
+This helps teams find mistakes earlier, saves time on repeated tasks, and makes it easier to keep the project working properly.
